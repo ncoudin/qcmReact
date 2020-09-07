@@ -1,0 +1,19 @@
+$bgcolor-over : #b8daff;
+$bgcolor-out : #c3e6cb;
+
+$color-over : #155724;
+$color-out : #155724; 
+
+.title__over{
+  color: #155724;
+  background-color: #c3e6cb !important;
+}
+
+.title__out, .title__default{
+  color: #004085;
+  background-color: #b8daff;
+}
+
+li{
+  cursor: pointer;
+}
